@@ -1,4 +1,4 @@
-Check the piblished version: ([https://vuejs.org/guide/scaling-up/tooling.html#ide-support](https://star-rating-lumas.netlify.app/)).
+Check the piblished version: ([Star Raring App](https://star-rating-lumas.netlify.app/)).
 
 
 # Vue 3 + Vite
